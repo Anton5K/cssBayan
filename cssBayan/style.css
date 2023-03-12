@@ -23,3 +23,27 @@ header{
     text-align: center;
 
 }
+/* #exp-btn{
+    display: inline-block;
+    cursor: default;
+}
+#isexp:checked ~ #exp-btn, #isexp:checked ~ #exp-btn{
+    background: fixed;
+}
+#isexp, .expandable{
+    display: none;
+}
+#isexp:checked ~ tr.expandable{
+    display: table-row;
+}
+#isexp:checked ~ p.expandable{
+    display: block;
+
+}
+.container .content {
+    display: none;
+  }
+  
+  .container.active .content {
+    display: block;
+  } */
